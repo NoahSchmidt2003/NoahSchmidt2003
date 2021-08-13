@@ -15,7 +15,7 @@
 ## Work Experience
 ### Quatulo.net | Web Developer & Bot Developer (2021 - present)
 - Building websites backend & frontend 
-- Designing and building Social media bots on platform Discord
+- Designing and building Social media bots on thw platform Discord
 
 ### Mineleague.net | Bot Developer (2020 - 2021)
 - Designing and building Social media bots on the platform Discord
