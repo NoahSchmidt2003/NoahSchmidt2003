@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m Noah Schmidt
 - 🤘 17 years old
-- 🏫 Highschool student
+- 🏫 High school student
 - 🏠 Marburg Hessen Germany
 - 👀 I’m interested in programming and tech
 - 🌱 I’m currently learning Java
