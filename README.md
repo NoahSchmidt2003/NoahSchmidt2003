@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Java
 - 👨‍💻 Python, HTML5, CSS3, Java, JS and R
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me mail: noahschmidt2003@gmail.com
+- 📫 How to reach me mail: noahschmidt2003@protonmail.com
 
 ## Work Experience
 ### Quatulo.net | Web Developer & Bot Developer (2021 - present)
