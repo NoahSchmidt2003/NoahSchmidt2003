@@ -8,7 +8,7 @@
 - 🏠 Marburg Hessen Germany
 - 👀 I’m interested in programming and tech
 - 🌱 I’m currently learning Java
-- 👨‍💻 Python, HTML5, CSS3, Java, JS and R
+- 👨‍💻 Python, HTML5, CSS3, Java and JS
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me mail: noahschmidt2003@protonmail.com
 
