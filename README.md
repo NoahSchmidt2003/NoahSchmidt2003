@@ -3,7 +3,7 @@
 ## Introduction
 
 - 👋 Hi, I’m Noah Schmidt
-- 🤘 17 years old
+- 🤘 18 years old
 - 🏫 High school student
 - 🏠 Marburg Hessen Germany
 - 👀 I’m interested in programming and tech
