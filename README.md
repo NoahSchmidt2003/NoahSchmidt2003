@@ -13,7 +13,7 @@
 - 📫 How to reach me mail: noahschmidt2003@protonmail.com
 
 ## Work Experience
-### Quatulo.net | Web Developer & Bot Developer (2021 - present)
+### Quatulo.net (PeaxeMC) | Web Developer & Bot Developer (2021 - present)
 - Building websites backend & frontend 
 - Designing and building Social media bots on the platform Discord
 
