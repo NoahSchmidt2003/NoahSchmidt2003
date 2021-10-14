@@ -51,7 +51,7 @@
 - [ ] dashboard
 - [ ] contacts
 - [x] design (50% done)
-- [ ] etc.
+- [ ] etc. <br>
 [go to project](https://github.com/NoahSchmidt2003/OnlineBankingApp)
 
 ### Many more smaller projects visit my repos
