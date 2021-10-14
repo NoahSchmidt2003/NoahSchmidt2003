@@ -52,6 +52,7 @@
 - [ ] contacts
 - [x] design (50% done)
 - [ ] etc.
+[go to project](https://github.com/NoahSchmidt2003/OnlineBankingApp)
 
 ### Many more smaller projects visit my repos
 [go to repos](https://github.com/NoahSchmidt2003?tab=repositories)
