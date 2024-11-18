@@ -3,17 +3,21 @@
 ## Introduction
 
 - 👋 Hi, I’m Noah Schmidt
-- 🤘 18 years old
-- 🏫 High school student
+- 🤘 21 years old
+- 🏫 college student
 - 🏠 Marburg Hessen Germany
 - 👀 I’m interested in programming and tech
-- 🌱 I’m currently learning Java
-- 👨‍💻 Python, HTML5, CSS3, Java and JS
+- 🌱 I’m currently learning C++
+- 👨‍💻 Python, HTML5, CSS3, Java, JS, C
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me mail: noahschmidt2003@protonmail.com
+- 📫 How to reach me mail: contact@noahschmidt.de
 
 ## Work Experience
-### Quatulo.net (PeaxeMC) | Web Developer & Bot Developer (2021 - present)
+### noahschmidt.de | Full Stack web developer (2022 - present)
+- building websites for clients
+
+
+### Quatulo.net (PeaxeMC) | Web Developer & Bot Developer (january 2021 - march 2021)
 - Building websites backend & frontend 
 - Designing and building Social media bots on the platform Discord
 
